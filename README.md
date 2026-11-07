@@ -36,15 +36,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Thiti-IoT&show_icons=true&theme=tokyonight&hide_border=true" alt="AmpNa's GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thiti-IoT&layout=compact&theme=tokyonight&hide_border=true" alt="AmpNa's Most Used Languages" />
-</p>
-
----
-
 ### 📫 Contact
 
 - GitHub: [@ThitipornMeemana](https://github.com/Thiti-Iot)
