@@ -32,7 +32,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Echo](https://img.shields.io/badge/-Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png?utm_source=th.wikipedia.org&utm_campaign=parser&utm_content=thumbnail/-PostgreSQL-FFFFFF?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
